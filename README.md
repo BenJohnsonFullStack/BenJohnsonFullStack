@@ -1,6 +1,6 @@
 <p align="center"> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="80" height="80"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="80" height="80"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> </a> <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="80" height="80"/> </a> </p>
-<h1 align="center">Hi 👋, I'm Ben Johnson</h1>
-<h3 align="center">A Full Stack Web Developer from Columbus, GA</h3>
+<h1 align="center">👋 Hello friends! My name is Ben.</h1>
+<h3 align="center">I'm a Full Stack Software Engineer with a passion for improving people's lives through web and software applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjohnsonfullstack&label=Profile%20views&color=0e75b6&style=flat" alt="benjohnsonfullstack" /> </p>
 
