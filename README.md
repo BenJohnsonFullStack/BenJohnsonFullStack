@@ -17,8 +17,8 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">My Startup</h3>
-<h5 align="center">Lobi Software Studio</h5>
+<h3 align="center">🚀 My Startup</h3>
+<h4 align="center">Lobi Software Studio</h4>
 <p align="center">
   <img src="https://i.postimg.cc/T3JdnyM2/lobi-logo-01.png" alt="lobi software studio" width="511.2" height="400"/>
 </p>
@@ -26,7 +26,7 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">Projects in Development</h3>
+<h3 align="center">🌱 Projects in Development</h3>
 <p align="center"> 
   <img src="https://i.ibb.co/k6mc4Yt/squid-logo-01.png" alt="squid restaurant point of sale software" width="238" height="100"/> 
   <img src="https://i.ibb.co/gWjqkH8/honeycomb-logo-dark-bg-01.png" alt="honeycomb scheduling software" width="211.4" height="100"/>
@@ -35,7 +35,7 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝 Connect with me:</h3>
 <p align="center">
   <a href="https://dev.to/benjohnsonfullstack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benjohnsonfullstack"         height="30" width="40" />
@@ -50,7 +50,7 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">📚 Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -83,7 +83,7 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">Support:</h3>
+<h3 align="center">🙏 Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/benjohnson"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benjohnson" />
