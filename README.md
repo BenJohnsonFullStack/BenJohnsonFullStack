@@ -3,6 +3,9 @@
 <h1 align="center">👋 Hello! My name is Ben.</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a passion for improving people's lives through web and software applications.</h3>
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/benjohnsonfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benjohnsonfullstack" height="30" width="40" /></a>
