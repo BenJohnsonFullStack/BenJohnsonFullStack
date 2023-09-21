@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ben Johnson</h1>
-<h3 align="center">A creative Full Stack Web Developer from Columbus, GA</h3>
+<h3 align="center">A Full Stack Web Developer from Columbus, GA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjohnsonfullstack&label=Profile%20views&color=0e75b6&style=flat" alt="benjohnsonfullstack" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjohnsonfullstack" alt="benjohnsonfullstack" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React.js, Cypress.io**
+- 🥞 My tech stack is PostgreSQL, Express.js, React, Node.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/BenJohnsonFullStack](https://github.com/BenJohnsonFullStack)
 
-- 💬 Ask me about **The projects I have currently in the planning phase!**
+- 💬 Ask me about **The projects I have in development!**
 
-- 📫 How to reach me **monk.sound.design@gmail.com**
+- 📫 How to reach me **benjohnsonfullstack@gmail.com**
 
 - ⚡ Fun fact **I love to cook Italian food**
 
