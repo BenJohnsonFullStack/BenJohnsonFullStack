@@ -8,6 +8,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> 
   </a>
+  <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="80" height="80"/> 
+  </a> 
 </p>
 
 <h1 align="center">👋 Hello! My name is Ben.</h1>
