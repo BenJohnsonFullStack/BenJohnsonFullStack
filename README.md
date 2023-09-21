@@ -16,19 +16,18 @@
 <h3 align="center">I'm a Full Stack Software Engineer with a passion for improving people's lives <br /> through web and software applications.</h3>
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <h3 align="center">My Startup</h3>
 <h5 align="center">Lobi Software Studio</h5>
 <p align="center">
-  <img src="https://i.postimg.cc/T3JdnyM2/lobi-logo-01.png" alt="lobi software studio" width="127.8" height="100"/>
+  <img src="https://i.postimg.cc/T3JdnyM2/lobi-logo-01.png" alt="lobi software studio" width="255.6" height="200"/>
 </p>
 
 <h3 align="center">Projects in Development</h3>
 <p align="center"> 
-  <img src="https://i.ibb.co/k6mc4Yt/squid-logo-01.png" alt="squid restaurant point of sale software" width="119" height="50"/>
-  <img src="https://i.ibb.co/gWjqkH8/honeycomb-logo-dark-bg-01.png" alt="honeycomb scheduling software" width="105.7" height="50"/>
-  <img src="https://i.ibb.co/TYXxtMX/abella-logo-no-bg-01.png" alt="abella total health web app" width="75.6" height="50"/>
+  <img src="https://i.ibb.co/k6mc4Yt/squid-logo-01.png" alt="squid restaurant point of sale software" width="238" height="100"/>
+  <img src="https://i.ibb.co/gWjqkH8/honeycomb-logo-dark-bg-01.png" alt="honeycomb scheduling software" width="211.4" height="100"/>
+  <img src="https://i.ibb.co/TYXxtMX/abella-logo-no-bg-01.png" alt="abella total health web app" width="151.2" height="100"/>
 </p>
  
 
