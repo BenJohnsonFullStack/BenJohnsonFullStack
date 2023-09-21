@@ -28,8 +28,6 @@
   <img src="https://i.ibb.co/gWjqkH8/honeycomb-logo-dark-bg-01.png" alt="honeycomb scheduling software" width="105.7" height="50"/>
   <img src="https://i.ibb.co/TYXxtMX/abella-logo-no-bg-01.png" alt="abella total health web app" width="75.6" height="50"/>
 </p>
-
- https://i.ibb.co/Pm43K7d/lobi-logo-01.png
  
 
 <h3 align="left">Connect with me:</h3>
