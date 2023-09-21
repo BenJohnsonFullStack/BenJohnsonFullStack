@@ -96,16 +96,16 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe illustrator" width="40" height="40"/> 
   </a> 
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://brandfetch.com/cypress.io/library/default/asset/idCwNDh5h4?collection=logos&view=library" alt="cypress" width="40" height="40"/> 
+    <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="cypress" width="40" height="40"/> 
   </a> 
   <a href="https://www.heroku.com/what" target="_blank" rel="noreferrer"> 
-    <img src="https://brandfetch.com/heroku.com/library/default/asset/id3l7WrkNm?collection=logos&view=library" alt="heroku" width="40" height="40"/> 
+    <img src="https://devcenter3.assets.heroku.com/article-images/1685983850-Screenshot-2023-06-05-at-12.50.38-PM.png" alt="heroku" width="40" height="40"/> 
   </a>
-  <a href="[https://www.heroku.com/what](https://redux.js.org/)" target="_blank" rel="noreferrer"> 
-    <img src="https://brandfetch.com/redux.js.org/library/default/asset/idJHv31Pj6?collection=logos&view=library" alt="redux" width="40" height="40"/> 
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> 
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://brandfetch.com/sqlite.org/library/default/asset/idgJdJGUxN?collection=logos&view=library" alt="sql lite" width="40" height="40"/> 
+    <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sql lite" width="40" height="40"/> 
   </a>
 </p>
 
