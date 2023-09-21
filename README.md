@@ -54,7 +54,7 @@
 <h3 align="center">📚 Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="40" height="40"/> 
+    <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="45" height="45"/> 
   </a> 
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
