@@ -87,7 +87,7 @@
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> 
+    <img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="html" width="40" height="40"/> 
   </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
