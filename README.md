@@ -1,4 +1,16 @@
-<p align="center"> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="80" height="80"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="80" height="80"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> </a> <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="80" height="80"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="80" height="80"/> 
+  </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="80" height="80"/> 
+  </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> 
+  </a> 
+  <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="80" height="80"/> 
+  </a> 
+</p>
 
 <h1 align="center">👋 Hello! My name is Ben.</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a passion for improving people's lives <br /> through web and software applications.</h3>
@@ -6,11 +18,30 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+<h3 align="center">My Startup</h3>
+<h5 align="center">Lobi Software Studio</h5>
+<img src="https://ibb.co/WGD1mg5" alt="lobi software studio" width="127.8" height="100"/>
+
+<h3 align="center">Projects in Development</h3>
+<p> 
+  <img src="https://ibb.co/x8F51VN" alt="squid restaurant point of sale software" width="119" height="50"/>
+  <img src="https://ibb.co/s1mx8k4" alt="honeycomb scheduling software" width="105.7" height="50"/>
+  <img src="https://ibb.co/BcD5B2D" alt="abella total health web app" width="75.6" height="50"/>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/benjohnsonfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benjohnsonfullstack" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ben johnson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben johnson" height="30" width="40" /></a>
-<a href="https://instagram.com/benjohnsonfullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjohnsonfullstack" height="30" width="40" /></a>
+  <a href="https://dev.to/benjohnsonfullstack" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benjohnsonfullstack"         height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ben johnson" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben johnson"         height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/benjohnsonfullstack" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjohnsonfullstack"     height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
