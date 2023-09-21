@@ -26,7 +26,6 @@
 <h3 align="center">Projects in Development</h3>
 <p align="center"> 
   <img src="https://i.ibb.co/k6mc4Yt/squid-logo-01.png" alt="squid restaurant point of sale software" width="238" height="100"/> 
-  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
   <img src="https://i.ibb.co/gWjqkH8/honeycomb-logo-dark-bg-01.png" alt="honeycomb scheduling software" width="211.4" height="100"/>
   <img src="https://i.ibb.co/TYXxtMX/abella-logo-no-bg-01.png" alt="abella total health web app" width="151.2" height="100"/>
 </p>
