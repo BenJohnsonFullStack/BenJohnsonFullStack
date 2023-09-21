@@ -7,10 +7,7 @@
   </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> 
-  </a> 
-  <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="80" height="80"/> 
-  </a> 
+  </a>
 </p>
 
 <h1 align="center">👋 Hello! My name is Ben.</h1>
@@ -99,7 +96,7 @@
     <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="cypress" width="40" height="40"/> 
   </a> 
   <a href="https://www.heroku.com/what" target="_blank" rel="noreferrer"> 
-    <img src="https://devcenter3.assets.heroku.com/article-images/1685983850-Screenshot-2023-06-05-at-12.50.38-PM.png" alt="heroku" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="40" height="40"/> 
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> 
