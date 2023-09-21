@@ -96,13 +96,10 @@
     <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="cypress" width="40" height="40"/> 
   </a> 
   <a href="https://www.heroku.com/what" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="30" height="40"/> 
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sql lite" width="40" height="40"/> 
   </a>
 </p>
 
