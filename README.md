@@ -78,8 +78,35 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman api" width="40" height="40"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="react" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.creativebloq.com/features/download-adobe-illustrator" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe illustrator" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://brandfetch.com/cypress.io/library/default/asset/idCwNDh5h4?collection=logos&view=library" alt="cypress" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.heroku.com/what" target="_blank" rel="noreferrer"> 
+    <img src="https://brandfetch.com/heroku.com/library/default/asset/id3l7WrkNm?collection=logos&view=library" alt="heroku" width="40" height="40"/> 
+  </a>
+  <a href="[https://www.heroku.com/what](https://redux.js.org/)" target="_blank" rel="noreferrer"> 
+    <img src="https://brandfetch.com/redux.js.org/library/default/asset/idJHv31Pj6?collection=logos&view=library" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://brandfetch.com/sqlite.org/library/default/asset/idgJdJGUxN?collection=logos&view=library" alt="sql lite" width="40" height="40"/> 
+  </a>
 </p>
 
 <p>&nbsp;</p>
