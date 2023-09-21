@@ -1,8 +1,8 @@
 <p align="center"> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="80" height="80"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="80" height="80"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> </a> <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="80" height="80"/> </a> </p>
-<h1 align="center" color="edece8">👋 Hello! My name is Ben.</h1>
+<h1 align="center">👋 Hello! My name is Ben.</h1>
 <h3 align="center">I'm a Full Stack Software Engineer with a passion for improving people's lives through web and software applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjohnsonfullstack&label=Profile%20views&color=0e75b6&style=flat" alt="benjohnsonfullstack" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjohnsonfullstack" alt="benjohnsonfullstack" /></a> </p>
 
@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benjohnsonfullstack&show_icons=true&locale=en" alt="benjohnsonfullstack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benjohnsonfullstack&" alt="benjohnsonfullstack" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benjohnsonfullstack&label=Profile%20views&color=0e75b6&style=flat" alt="benjohnsonfullstack" /> </p>
