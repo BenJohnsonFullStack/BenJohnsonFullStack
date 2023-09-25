@@ -21,7 +21,7 @@
 <h3 align="center">🚀 My Startup</h3>
 <h4 align="center">Lobi Software Studio</h4>
 <p align="center">
-  <img src="https://i.postimg.cc/PqcWTfsT/lobi-logo-trans-01-01.png" alt="lobi software studio" width="250" height="250"/>
+  <img src="https://i.postimg.cc/PqcWTfsT/lobi-logo-trans-01-01.png" alt="lobi software studio" width="350" height="350"/>
 </p>
 
 
