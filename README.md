@@ -82,7 +82,7 @@
   If you're looking for a developer who's <strong>more than just a coder</strong>, you’re in the right place.
 </p>
 
-<p align="center">
+<p align="left">
     <a href="mailto:benjohnsonfullstack@gmail.com">
         <div>
             <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="Email">
