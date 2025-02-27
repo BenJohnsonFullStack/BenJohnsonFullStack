@@ -11,13 +11,13 @@
 
   <p align="center">
     <a href="mailto:benjohnsonfullstack@gmail.com">
-      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email" width="250" height="40" style="margin-right: 15px;">
+      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email" width="280" height="30" style="margin-right: 30px;">
     </a>
     <a href="https://linkedin.com/in/benjohnsonfullstack">
-      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn" width="250" height="40" style="margin-right: 15px;">
+      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn" width="250" height="30" style="margin-right: 30px;">
     </a>
     <a href="https://github.com/BenJohnsonFullStack">
-      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub" width="260" height="40">
+      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub" width="260" height="30">
     </a>
 </p>
 
