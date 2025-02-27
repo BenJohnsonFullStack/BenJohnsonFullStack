@@ -28,7 +28,7 @@
 <h2>👋 Hey there!</h2>
 <p>
   I'm an <strong>experienced full-stack software engineer</strong> with deep expertise in <strong>MERN & PERN stacks</strong>, 
-  <strong>Vue.js</strong>, and <strong>mobile development</strong>. But that's just the start—I’m also a 
+  <strong>Next.js</strong>, and <strong>mobile development</strong>. But that's just the start—I’m also a 
   <strong>tech entrepreneur, product leader, and UI/UX fanatic</strong>.
 </p>
 <p>
@@ -40,7 +40,7 @@
 <h2>🏆 What I Bring to the Table</h2>
 <table>
   <tr>
-    <td>✅ <strong>Full-Stack Mastery:</strong> MERN, PERN, Vue</td>
+    <td>✅ <strong>Full-Stack Mastery:</strong> MERN, PERN, Next.js</td>
     <td>✅ <strong>Mobile Development:</strong> Native & Cross-Platform</td>
   </tr>
   <tr>
@@ -58,9 +58,9 @@
 <h2>💻 Tech Toolbox</h2>
 <p>
   <strong>🔥 Languages:</strong> JavaScript, TypeScript, Python, Java, Swift, SQL<br>
-  <strong>🛠️ Frameworks & Libraries:</strong> React, Vue, Nest.js, Nuxt.js, Next.js, Redux, ORM<br>
+  <strong>🛠️ Frameworks & Libraries:</strong> React, Next.js, Nest.js, Nuxt.js, Vue.js, Redux Toolkit<br>
   <strong>☁️ Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD, GitOps<br>
-  <strong>📱 Mobile:</strong> SwiftUI, React Native, Android Studio, Xcode<br>
+  <strong>📱 Mobile:</strong> SwiftUI, React Native, Android Studio<br>
   <strong>🧠 AI & Automation:</strong> AI Agents, LLM Prompting, Python Scripting
 </p>
 
@@ -69,7 +69,8 @@
 <h2>🚀 What I'm Building</h2>
 <ul>
   <li>🔥 <strong>Lobi Software Studio</strong> – Helping businesses own their tech with proprietary software solutions.</li>
-  <li>🧠 <strong>AI & Automation</strong> – Exploring LLM-powered workflows & AI-assisted development.</li>
+  <li>🧠 <strong>AI & Automation</strong> – Exploring LLM-powered workflows & AI-agency.</li>
+  <li>🧩 <strong>Dvora.io</strong> – A modular, microservice-driven CMS suite empowering small businesses.</li>
   <li>📱 <strong>Consumer Wellness MVP</strong> – AI-driven health journeys for individuals.</li>
   <li>📊 <strong>Care Management Platform</strong> – A web solution improving clinical workflows & FHIR interoperability.</li>
 </ul>
