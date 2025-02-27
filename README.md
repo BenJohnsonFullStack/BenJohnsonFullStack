@@ -88,11 +88,11 @@
     </a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://linkedin.com/in/benjohnsonfullstack">
-      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B&logo=linkedin" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn">
     </a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/BenJohnsonFullStack">
-      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B&logo=github" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub">
     </a>
 </p>
 
