@@ -55,7 +55,7 @@
 
 ---
 
-<h2>💻 Tech Toolbox</h2>
+<h2 align="left">💻 Tech Toolbox</h2>
 <p align="left">
   <strong>🔥 Languages:</strong> JavaScript, TypeScript, Python, Java, Swift, SQL<br>
   <strong>🛠️ Frameworks & Libraries:</strong> React, Next.js, Nest.js, Nuxt.js, Vue.js, Redux Toolkit<br>
@@ -66,18 +66,18 @@
 
 ---
 
-<h2>🚀 What I'm Building</h2>
-<ul align="left">
-  <li>🔥 <strong>Lobi Software Studio</strong> – Helping businesses own their tech with proprietary software solutions.</li>
-  <li>🧠 <strong>AI & Automation</strong> – Exploring LLM-powered workflows & AI-agency.</li>
-  <li>🧩 <strong>Dvora.io</strong> – A modular, microservice-driven CMS suite empowering small businesses.</li>
-  <li>📱 <strong>Consumer Wellness MVP</strong> – AI-driven health journeys for individuals.</li>
-  <li>📊 <strong>Care Management Platform</strong> – A web solution improving clinical workflows & FHIR interoperability.</li>
+<h2 align="left">🚀 What I'm Building</h2>
+<ul>
+  <li align="left">🔥 <strong>Lobi Software Studio</strong> – Helping businesses own their tech with proprietary software solutions.</li>
+  <li align="left">🧠 <strong>AI & Automation</strong> – Exploring LLM-powered workflows & AI-agency.</li>
+  <li align="left">🧩 <strong>Dvora.io</strong> – A modular, microservice-driven CMS suite empowering small businesses.</li>
+  <li align="left">📱 <strong>Consumer Wellness MVP</strong> – AI-driven health journeys for individuals.</li>
+  <li align="left">📊 <strong>Care Management Platform</strong> – A web solution improving clinical workflows & FHIR interoperability.</li>
 </ul>
 
 ---
 
-<h2>🎙️ Beyond Engineering</h2>
+<h2 align="left">🎙️ Beyond Engineering</h2>
 <p align="left">
   🚀 <strong>Founder & CEO</strong> – Built multiple companies from the ground up.<br>
   🎤 <strong>Podcasting</strong> – Sharing thoughts on tech, entrepreneurship, and the digital world.<br>
