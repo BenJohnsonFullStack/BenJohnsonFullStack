@@ -82,12 +82,17 @@
   If you're looking for a developer who's <strong>more than just a coder</strong>, you’re in the right place.
 </p>
 
-<div align="center">
+<p align="center">
+    <a href="mailto:benjohnsonfullstack@gmail.com">
+      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email" width="250" height="40">
+    </a>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="https://linkedin.com/in/benjohnsonfullstack">
+      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B&logo=linkedin" alt="LinkedIn" width="250" height="40">
+    </a>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="https://github.com/BenJohnsonFullStack">
+      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B&logo=github" alt="GitHub" width="260" height="40">
+    </a>
+</p>
 
-|  **Get In Touch**  |
-|--------------------------|
-| <a href="mailto:benjohnsonfullstack@gmail.com"><img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email"></a> |
-| <a href="https://linkedin.com/in/benjohnsonfullstack"><img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn"></a> |
-| <a href="https://github.com/BenJohnsonFullStack"><img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub"></a> |
-
-</div>
