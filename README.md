@@ -21,7 +21,6 @@
     <a href="https://github.com/BenJohnsonFullStack">
       <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
