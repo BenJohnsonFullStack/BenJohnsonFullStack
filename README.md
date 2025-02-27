@@ -12,7 +12,7 @@
   
 ---
 
-<h2 align="left">👋 Hey there!</h2>
+<h2>👋 Hey there!</h2>
 <p align="left">
   I'm an <strong>experienced full-stack software engineer</strong> with deep expertise in <strong>MERN & PERN stacks</strong>, 
   <strong>Next.js</strong>, and <strong>mobile development</strong>. But that's just the start—I’m also a 
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="left">🏆 What I Bring to the Table</h2>
+<h2>🏆 What I Bring to the Table</h2>
 <table>
   <tr>
     <td>✅ <strong>Full-Stack Mastery:</strong> MERN, PERN, Next.js</td>
