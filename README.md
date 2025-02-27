@@ -2,7 +2,12 @@
   <img src="https://i.postimg.cc/2jJ138sf/Screenshot-2025-02-27-at-4-24-58-PM.png" alt="Ben Johnson - Full-Stack Software Engineer" width="100%">
 
   <h1>Software Product & SaaS Developer</h1>
-  <p><strong>Building Scalable Software | Passionate About UI/UX | Elevating Human Potential</strong></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Building%20Scalable%20Software-blue?style=flat-square" alt="Building Scalable Software">
+    <img src="https://img.shields.io/badge/-Passionate%20About%20UI%2FUX-purple?style=flat-square" alt="Passionate About UI/UX">
+    <img src="https://img.shields.io/badge/-Elevating%20Human%20Potential-green?style=flat-square" alt="Elevating Human Potential">
+  </p>
+
 
   <a href="mailto:benjohnsonfullstack@gmail.com">
     <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-red?style=for-the-badge">
