@@ -13,21 +13,14 @@
 
 <div align="center">
 
-> ### **Get In Touch**
-> **Email:**  
-> <a href="mailto:benjohnsonfullstack@gmail.com">
-> <img src="https://img.shields.io/badge/benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email">
-> </a>  
-> **LinkedIn:**  
-> <a href="https://linkedin.com/in/benjohnsonfullstack">
-> <img src="https://img.shields.io/badge/Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn">
-> </a>  
-> **GitHub:**  
-> <a href="https://github.com/BenJohnsonFullStack">
-> <img src="https://img.shields.io/badge/BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub">
-> </a>
+| **Contact & Links** |
+|--------------------------|
+| 📧 **Email**  <br> <a href="mailto:benjohnsonfullstack@gmail.com"><img src="https://img.shields.io/badge/benjohnsonfullstack%40gmail.com-%234B4B4B?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email"></a> |
+| 👔 **LinkedIn**  <br> <a href="https://linkedin.com/in/benjohnsonfullstack"><img src="https://img.shields.io/badge/Ben%20Johnson-%234B4B4B?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn"></a> |
+| 💻 **GitHub**  <br> <a href="https://github.com/BenJohnsonFullStack"><img src="https://img.shields.io/badge/BenJohnsonFullStack-%234B4B4B?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub"></a> |
 
 </div>
+
 
 ---
 
