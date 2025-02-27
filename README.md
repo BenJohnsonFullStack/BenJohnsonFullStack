@@ -26,12 +26,12 @@
 ---
 
 <h2>👋 Hey there!</h2>
-<p>
+<p align="left">
   I'm an <strong>experienced full-stack software engineer</strong> with deep expertise in <strong>MERN & PERN stacks</strong>, 
   <strong>Next.js</strong>, and <strong>mobile development</strong>. But that's just the start—I’m also a 
   <strong>tech entrepreneur, product leader, and UI/UX fanatic</strong>.
 </p>
-<p>
+<p align="left"> 
   <strong>💡 My Mission:</strong> To build world-class software that blends design, functionality, and scale while helping people achieve more.
 </p>
 
