@@ -9,20 +9,7 @@
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/-Elevating%20Human%20Potential-%2300853f?style=flat" alt="Elevating Human Potential">
   </p>
-
-
-<div align="center">
-
-|  **Get In Touch**  |
-|--------------------------|
-| <a href="mailto:benjohnsonfullstack@gmail.com"><img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email"></a> |
-| <a href="https://linkedin.com/in/benjohnsonfullstack"><img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn"></a> |
-| <a href="https://github.com/BenJohnsonFullStack"><img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub"></a> |
-
-</div>
-
-
-
+  
 ---
 
 <h2 align="left">👋 Hey there!</h2>
@@ -96,13 +83,11 @@
 </p>
 
 <div align="center">
-  <a href="mailto:benjohnsonfullstack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-red?style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/benjohnsonfullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/BenJohnsonFullStack">
-    <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-black?style=for-the-badge&logo=github">
-  </a>
+
+|  **Get In Touch**  |
+|--------------------------|
+| <a href="mailto:benjohnsonfullstack@gmail.com"><img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email"></a> |
+| <a href="https://linkedin.com/in/benjohnsonfullstack"><img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn"></a> |
+| <a href="https://github.com/BenJohnsonFullStack"><img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub"></a> |
+
 </div>
