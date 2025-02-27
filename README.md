@@ -84,15 +84,15 @@
 
 <p align="center">
     <a href="mailto:benjohnsonfullstack@gmail.com">
-      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=2B2B2B" alt="Email">
+      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="Email">
     </a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://linkedin.com/in/benjohnsonfullstack">
-      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=2B2B2B" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="LinkedIn">
     </a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/BenJohnsonFullStack">
-      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=2B2B2B" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="GitHub">
     </a>
 </p>
 
