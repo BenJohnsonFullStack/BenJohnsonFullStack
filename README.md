@@ -56,7 +56,7 @@
 ---
 
 <h2>💻 Tech Toolbox</h2>
-<p>
+<p align="left">
   <strong>🔥 Languages:</strong> JavaScript, TypeScript, Python, Java, Swift, SQL<br>
   <strong>🛠️ Frameworks & Libraries:</strong> React, Next.js, Nest.js, Nuxt.js, Vue.js, Redux Toolkit<br>
   <strong>☁️ Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD, GitOps<br>
@@ -67,7 +67,7 @@
 ---
 
 <h2>🚀 What I'm Building</h2>
-<ul>
+<ul align="left">
   <li>🔥 <strong>Lobi Software Studio</strong> – Helping businesses own their tech with proprietary software solutions.</li>
   <li>🧠 <strong>AI & Automation</strong> – Exploring LLM-powered workflows & AI-agency.</li>
   <li>🧩 <strong>Dvora.io</strong> – A modular, microservice-driven CMS suite empowering small businesses.</li>
@@ -78,7 +78,7 @@
 ---
 
 <h2>🎙️ Beyond Engineering</h2>
-<p>
+<p align="left">
   🚀 <strong>Founder & CEO</strong> – Built multiple companies from the ground up.<br>
   🎤 <strong>Podcasting</strong> – Sharing thoughts on tech, entrepreneurship, and the digital world.<br>
   🎨 <strong>UI/UX Enthusiast</strong> – Creating seamless, beautiful, and intuitive software.<br>
@@ -88,7 +88,7 @@
 ---
 
 <h2>🎯 Let's Build Something Amazing</h2>
-<p>
+<p align="left">
   I'm always open to <strong>collaborations, contract work, and exciting opportunities</strong>. 
   If you're looking for a developer who's <strong>more than just a coder</strong>, you’re in the right place.
 </p>
