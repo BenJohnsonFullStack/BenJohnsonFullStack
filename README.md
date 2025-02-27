@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-banner-image-url.com" alt="Ben Johnson - Full-Stack Software Engineer" width="100%">
+  <img src="https://i.postimg.cc/2jJ138sf/Screenshot-2025-02-27-at-4-24-58-PM.png" alt="Ben Johnson - Full-Stack Software Engineer" width="100%">
 
   <h1>🚀 Ben Johnson | Full-Stack Software Engineer & Tech Visionary</h1>
   <p><strong>Building Scalable Software | Passionate About UI/UX | Elevating Human Potential</strong></p>
