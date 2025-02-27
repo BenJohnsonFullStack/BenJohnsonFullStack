@@ -19,7 +19,7 @@
   <strong>tech entrepreneur, product leader, and UI/UX fanatic</strong>.
 </p>
 <p align="left"> 
-  <strong>💡 My Mission:</strong> To build world-class software that blends design, functionality, and scale while helping people achieve more.
+  <strong>💡 My Mission:</strong> To create world-class digital products that solve real problems, create seamless experiences, and maximize profit potential.
 </p>
 
 ---
