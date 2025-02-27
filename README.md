@@ -9,15 +9,18 @@
   </p>
 
 
-  <a href="mailto:benjohnsonfullstack@gmail.com">
-    <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-red?style=for-the-badge">
-  </a>
-  <a href="https://linkedin.com/in/benjohnsonfullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/BenJohnsonFullStack">
-    <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-black?style=for-the-badge&logo=github">
-  </a>
+  <p align="center">
+    <a href="mailto:benjohnsonfullstack@gmail.com">
+      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=for-the-badge&labelColor=%232D1B69&color=4B4B4B" alt="Email">
+    </a>
+    <a href="https://linkedin.com/in/benjohnsonfullstack">
+      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=for-the-badge&labelColor=%232D1B69&color=4B4B4B&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/BenJohnsonFullStack">
+      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=for-the-badge&labelColor=%232D1B69&color=4B4B4B&logo=github" alt="GitHub">
+    </a>
+  </p>
+
 </div>
 
 ---
