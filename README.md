@@ -84,7 +84,7 @@
 
 <p align="center">
     <a href="mailto:benjohnsonfullstack@gmail.com">
-      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email">
+      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=3B3B3B" alt="Email">
     </a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://linkedin.com/in/benjohnsonfullstack">
