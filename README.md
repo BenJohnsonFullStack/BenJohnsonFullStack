@@ -82,19 +82,19 @@
   If you're looking for a developer who's <strong>more than just a coder</strong>, you’re in the right place.
 </p>
 
-<p align="left">
+<p align="center">
     <a href="mailto:benjohnsonfullstack@gmail.com">
-        <div>
+        <div align="left">
             <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="Email">
         </div>
     </a>
     <a href="https://linkedin.com/in/benjohnsonfullstack">
-        <div>
+        <div align="left">
             <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="LinkedIn">
         </div>
     </a>
     <a href="https://github.com/BenJohnsonFullStack">
-        <div>
+        <div align="left">
             <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="GitHub">
         </div>
     </a>
