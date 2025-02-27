@@ -38,7 +38,7 @@
 ---
 
 <h2>🏆 What I Bring to the Table</h2>
-<table align="left">
+<table>
   <tr>
     <td>✅ <strong>Full-Stack Mastery:</strong> MERN, PERN, Next.js</td>
     <td>✅ <strong>Mobile Development:</strong> Native & Cross-Platform</td>
