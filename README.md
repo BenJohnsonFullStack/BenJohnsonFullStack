@@ -66,6 +66,7 @@
 
 ---
 
+<div align="left">
 <h2 align="left">🚀 What I'm Building</h2>
 <ul>
   <li align="left">🔥 <strong>Lobi Software Studio</strong> – Helping businesses own their tech with proprietary software solutions.</li>
@@ -74,6 +75,7 @@
   <li align="left">📱 <strong>Consumer Wellness MVP</strong> – AI-driven health journeys for individuals.</li>
   <li align="left">📊 <strong>Care Management Platform</strong> – A web solution improving clinical workflows & FHIR interoperability.</li>
 </ul>
+</div>
 
 ---
 
