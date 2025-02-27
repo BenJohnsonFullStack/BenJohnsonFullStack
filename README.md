@@ -84,15 +84,20 @@
 
 <p align="center">
     <a href="mailto:benjohnsonfullstack@gmail.com">
-      <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="Email">
+        <div>
+            <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="Email">
+        </div>
     </a>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://linkedin.com/in/benjohnsonfullstack">
-      <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="LinkedIn">
+        <div>
+            <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="LinkedIn">
+        </div>
     </a>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/BenJohnsonFullStack">
-      <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="GitHub">
+        <div>
+            <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?labelColor=%232D1B69&color=2B2B2B" alt="GitHub">
+        </div>
     </a>
 </p>
+
 
