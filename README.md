@@ -5,7 +5,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/-Building%20Scalable%20Software-blue?style=flat-square" alt="Building Scalable Software">
     <img src="https://img.shields.io/badge/-Passionate%20About%20UI%2FUX-purple?style=flat-square" alt="Passionate About UI/UX">
-    <img src="https://img.shields.io/badge/-Elevating%20Human%20Potential-green?style=flat-square" alt="Elevating Human Potential">
+    <img src="https://img.shields.io/badge/-Elevating%20Human%20Potential-%2300853f?style=flat-square" alt="Elevating Human Potential">
   </p>
 
 
