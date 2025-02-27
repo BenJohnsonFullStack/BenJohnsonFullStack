@@ -11,36 +11,13 @@
   </p>
 
 
- <div align="center">
-  <div style="
-    background: #1E1E2E; /* Dark card background */
-    padding: 20px;
-    border-radius: 12px;
-    width: fit-content;
-    text-align: left;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
-  ">
-    <p>
-      <a href="mailto:benjohnsonfullstack@gmail.com">
-        <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" 
-             alt="Email" style="vertical-align: middle;">
-      </a>
-    </p>
-    <p>
-      <a href="https://linkedin.com/in/benjohnsonfullstack">
-        <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" 
-             alt="LinkedIn" style="vertical-align: middle;">
-      </a>
-    </p>
-    <p>
-      <a href="https://github.com/BenJohnsonFullStack">
-        <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" 
-             alt="GitHub" style="vertical-align: middle;">
-      </a>
-    </p>
-  </div>
-</div>
+<div align="center">
 
+|  🛠️ **Contact & Links**  |
+|--------------------------|
+| <a href="mailto:benjohnsonfullstack@gmail.com"><img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="Email"></a> |
+| <a href="https://linkedin.com/in/benjohnsonfullstack"><img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="LinkedIn"></a> |
+| <a href="https://github.com/BenJohnsonFullStack"><img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-%232D1B69?style=flat&labelColor=%232D1B69&color=4B4B4B" alt="GitHub"></a> |
 
 </div>
 
