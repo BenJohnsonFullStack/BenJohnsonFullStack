@@ -1,122 +1,97 @@
-<p align="center"> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="80" height="80"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="80" height="80"/> 
-  </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="80" height="80"/> 
+<div align="center">
+  <img src="https://your-banner-image-url.com" alt="Ben Johnson - Full-Stack Software Engineer" width="100%">
+
+  <h1>🚀 Ben Johnson | Full-Stack Software Engineer & Tech Visionary</h1>
+  <p><strong>Building Scalable Software | Passionate About UI/UX | Elevating Human Potential</strong></p>
+
+  <a href="mailto:benjohnsonfullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-red?style=for-the-badge">
   </a>
-  <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="80" height="80"/> 
-  </a> 
+  <a href="https://linkedin.com/in/benjohnsonfullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/BenJohnsonFullStack">
+    <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-black?style=for-the-badge&logo=github">
+  </a>
+</div>
+
+---
+
+<h2>👋 Hey there!</h2>
+<p>
+  I'm an <strong>experienced full-stack software engineer</strong> with deep expertise in <strong>MERN & PERN stacks</strong>, 
+  <strong>Vue.js</strong>, and <strong>mobile development</strong>. But that's just the start—I’m also a 
+  <strong>tech entrepreneur, product leader, and UI/UX fanatic</strong>.
+</p>
+<p>
+  <strong>💡 My Mission:</strong> To build world-class software that blends design, functionality, and scale while helping people achieve more.
 </p>
 
-<h1 align="center">👋 Hello! My name is Ben.</h1>
-<h3 align="center">I'm a Full Stack Software Engineer with a passion for improving people's lives <br /> through web and software applications.</h3>
+---
 
-<p>&nbsp;</p>
+<h2>🏆 What I Bring to the Table</h2>
+<table>
+  <tr>
+    <td>✅ <strong>Full-Stack Mastery:</strong> MERN, PERN, Vue</td>
+    <td>✅ <strong>Mobile Development:</strong> Native & Cross-Platform</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD</td>
+    <td>✅ <strong>Agile & Product Leadership:</strong> Microservices, System Integration</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>UI/UX Obsession:</strong> Beautiful, engaging user experiences</td>
+    <td>✅ <strong>Entrepreneurship:</strong> Tech founder & product visionary</td>
+  </tr>
+</table>
 
-<h3 align="center">🚀 My Startup</h3>
-<h4 align="center">Lobi Software Studio</h4>
-<p align="center">
-  <img src="https://i.postimg.cc/PqcWTfsT/lobi-logo-trans-01-01.png" alt="lobi software studio" width="350" height="350"/>
+---
+
+<h2>💻 Tech Toolbox</h2>
+<p>
+  <strong>🔥 Languages:</strong> JavaScript, TypeScript, Python, Java, Swift, SQL<br>
+  <strong>🛠️ Frameworks & Libraries:</strong> React, Vue, Nest.js, Nuxt.js, Next.js, Redux, ORM<br>
+  <strong>☁️ Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD, GitOps<br>
+  <strong>📱 Mobile:</strong> SwiftUI, React Native, Android Studio, Xcode<br>
+  <strong>🧠 AI & Automation:</strong> AI Agents, LLM Prompting, Python Scripting
 </p>
 
+---
 
-<p>&nbsp;</p>
+<h2>🚀 What I'm Building</h2>
+<ul>
+  <li>🔥 <strong>Lobi Software Studio</strong> – Helping businesses own their tech with proprietary software solutions.</li>
+  <li>🧠 <strong>AI & Automation</strong> – Exploring LLM-powered workflows & AI-assisted development.</li>
+  <li>📱 <strong>Consumer Wellness MVP</strong> – AI-driven health journeys for individuals.</li>
+  <li>📊 <strong>Care Management Platform</strong> – A web solution improving clinical workflows & FHIR interoperability.</li>
+</ul>
 
-<h3 align="center">🌱 Projects in Development</h3>
-<p align="center"> 
-  <img src="https://i.ibb.co/k6mc4Yt/squid-logo-01.png" alt="squid restaurant point of sale software" width="238" height="100"/> 
-  <img src="https://i.ibb.co/gWjqkH8/honeycomb-logo-dark-bg-01.png" alt="honeycomb scheduling software" width="211.4" height="100"/>
+---
+
+<h2>🎙️ Beyond Engineering</h2>
+<p>
+  🚀 <strong>Founder & CEO</strong> – Built multiple companies from the ground up.<br>
+  🎤 <strong>Podcasting</strong> – Sharing thoughts on tech, entrepreneurship, and the digital world.<br>
+  🎨 <strong>UI/UX Enthusiast</strong> – Creating seamless, beautiful, and intuitive software.<br>
+  📈 <strong>Product & Business Strategist</strong> – Scaling ideas into reality.
 </p>
 
-<p>&nbsp;</p>
+---
 
-<h3 align="center">🤝 Connect with me:</h3>
-<p align="center">
-  <a href="https://dev.to/benjohnsonfullstack" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="benjohnsonfullstack"         height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/benjohnsonfullstack/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben johnson"         height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/benjohnsonfullstack" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjohnsonfullstack"     height="30" width="40" />
-  </a>
+<h2>🎯 Let's Build Something Amazing</h2>
+<p>
+  I'm always open to <strong>collaborations, contract work, and exciting opportunities</strong>. 
+  If you're looking for a developer who's <strong>more than just a coder</strong>, you’re in the right place.
 </p>
 
-<p>&nbsp;</p>
-
-<h3 align="center">📚 Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-768x768.png" alt="postresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
-  </a> 
- <a href="https://nodejs.dev/en/download/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest testing" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman api" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/> 
+<div align="center">
+  <a href="mailto:benjohnsonfullstack@gmail.com">
+    <img src="https://img.shields.io/badge/Email-benjohnsonfullstack%40gmail.com-red?style=for-the-badge">
   </a>
-  <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_128.png" alt="html" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.creativebloq.com/features/download-adobe-illustrator" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" alt="cypress" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.heroku.com/what" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="heroku" width="30" height="40"/> 
+  <a href="https://linkedin.com/in/benjohnsonfullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-Ben%20Johnson-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> 
+  <a href="https://github.com/BenJohnsonFullStack">
+    <img src="https://img.shields.io/badge/GitHub-BenJohnsonFullStack-black?style=for-the-badge&logo=github">
   </a>
-</p>
-
-<p>&nbsp;</p>
-
-<h3 align="center">🙏 Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/benjohnson"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benjohnson" />
-  </a>
-</p>
-<br><br>
-
-<p>&nbsp;</p>
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=benjohnsonfullstack&label=Profile%20views&color=0e75b6&style=flat" alt="benjohnsonfullstack" /> 
-</p>
+</div>
