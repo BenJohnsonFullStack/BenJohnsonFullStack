@@ -32,11 +32,11 @@
   </tr>
   <tr>
     <td>✅ <strong>Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD</td>
-    <td>✅ <strong>Agile & Product Leadership:</strong> Microservices, System Integration</td>
+    <td>✅ <strong>AI Empowerment:</strong> Custom GPT's and AI Agency</td>
   </tr>
   <tr>
+    <td>✅ <strong>Agile & Product Leadership:</strong> Microservices, System Integration</td>
     <td>✅ <strong>UI/UX Obsession:</strong> Beautiful, engaging user experiences</td>
-    <td>✅ <strong>Entrepreneurship:</strong> Tech founder & product visionary</td>
   </tr>
 </table>
 
