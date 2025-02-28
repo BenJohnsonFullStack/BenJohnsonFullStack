@@ -15,7 +15,7 @@
 <h2>👋 Hey there!</h2>
 <p align="left">
   I'm an <strong>experienced full-stack software engineer</strong> with deep expertise in <strong>MERN & PERN stacks</strong>, 
-  <strong>Next.js</strong>, and <strong>mobile development</strong>. But that's just the start—I’m also a 
+  <strong>Next.js</strong>, and <strong>mobile development</strong>. I’m also a 
   <strong>tech entrepreneur, product leader, and UI/UX fanatic</strong>.
 </p>
 <p align="left"> 
