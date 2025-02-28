@@ -45,7 +45,7 @@
 <h2 align="left">💻 Tech Toolbox</h2>
 <p align="left">
   <strong>🔥 Languages:</strong> JavaScript, TypeScript, Python, Java, Swift, SQL<br>
-  <strong>🛠️ Frameworks & Libraries:</strong> React, Next.js, Nest.js, Nuxt.js, Vue.js, Redux Toolkit<br>
+  <strong>🛠️ Frameworks & Libraries:</strong> React, Node.js, Next.js, Nest.js, Nuxt.js, Vue.js, Redux Toolkit<br>
   <strong>☁️ Cloud & DevOps:</strong> AWS, Docker, Kubernetes, CI/CD, GitOps<br>
   <strong>📱 Mobile:</strong> SwiftUI, React Native, Android Studio<br>
   <strong>🧠 AI & Automation:</strong> AI Agents, LLM Prompting, Python Scripting
